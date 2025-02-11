@@ -1,0 +1,158 @@
+checksum: 62892
+manuallyEdited: 0
+timezoneMinutes: 0
+ppmunit: 0
+semver: 2.11.0
+board: mt12
+calib: 
+   ST:
+      mid: 1035
+      spanNeg: 723
+      spanPos: 720
+   TH:
+      mid: 1072
+      spanNeg: 976
+      spanPos: 851
+   P1:
+      mid: 1017
+      spanNeg: 999
+      spanPos: 1013
+   P2:
+      mid: 1011
+      spanNeg: 993
+      spanPos: 1019
+   P3:
+      mid: 0
+      spanNeg: 0
+      spanPos: 2016
+   P4:
+      mid: 0
+      spanNeg: 0
+      spanPos: 2016
+currModel: 0
+contrast: 22
+vBatWarn: 62
+txVoltageCalibration: -6
+backlightMode: backlight_mode_keys
+antennaMode: MODE_PER_MODEL
+disableRtcWarning: 1
+keysBacklight: 0
+dontPlayHello: 1
+internalModule: TYPE_CROSSFIRE
+trainer: 
+   mix: 
+      0:
+         srcChn: 3
+         mode: REPL
+         studWeight: 100
+      1:
+         srcChn: 1
+         mode: REPL
+         studWeight: 100
+      2:
+         srcChn: 2
+         mode: REPL
+         studWeight: 100
+      3:
+         srcChn: 0
+         mode: REPL
+         studWeight: 100
+view: 4
+fai: 0
+beepMode: mode_all
+alarmsFlash: 1
+disableMemoryWarning: 0
+disableAlarmWarning: 0
+stickMode: 1
+timezone: 0
+adjustRTC: 0
+inactivityTimer: 10
+internalModuleBaudrate: 2
+splashMode: 2
+hapticMode: mode_nokeys
+switchesDelay: 0
+lightAutoOff: 9
+templateSetup: 1
+PPM_Multiplier: 0
+hapticLength: 4
+beepLength: 2
+hapticStrength: 4
+gpsFormat: 0
+audioMuteEnable: 0
+speakerPitch: 30
+speakerVolume: 23
+vBatMin: 64
+vBatMax: 84
+backlightBright: 50
+globalTimer: 473937
+bluetoothBaudrate: 0
+bluetoothMode: OFF
+countryCode: 0
+pwrOnSpeed: -2
+pwrOffSpeed: -2
+noJitterFilter: 0
+imperial: 0
+disableRssiPoweroffAlarm: 0
+USBMode: 0
+jackMode: 0
+ttsLanguage: "fr"
+beepVolume: 4
+wavVolume: 4
+varioVolume: 2
+backgroundVolume: 4
+varioPitch: 0
+varioRange: 0
+varioRepeat: 0
+serialPort: 
+   VCP:
+      mode: CLI
+      power: 0
+potsConfig: 
+   P1:
+      type: with_detent
+      inv: 0
+      name: ""
+   P2:
+      type: with_detent
+      inv: 0
+      name: ""
+   P3:
+      type: slider
+      inv: 0
+      name: ""
+   P4:
+      type: slider
+      inv: 0
+      name: ""
+switchConfig: 
+   SA:
+      type: 3pos
+      name: ""
+   SB:
+      type: toggle
+      name: "SB"
+   SC:
+      type: toggle
+      name: ""
+   SD:
+      type: toggle
+      name: ""
+backlightColor: 0
+bluetoothName: "94832Q-"
+ownerRegistrationID: "JeremieG"
+rotEncMode: 0
+uartSampleMode: 0
+radioGFDisabled: 0
+radioTrainerDisabled: 0
+modelHeliDisabled: 0
+modelFMDisabled: 0
+modelCurvesDisabled: 0
+modelGVDisabled: 0
+modelLSDisabled: 0
+modelSFDisabled: 0
+modelCustomScriptsDisabled: 0
+modelTelemetryDisabled: 0
+disableTrainerPoweroffAlarm: 0
+disablePwrOnOffHaptic: 0
+invertLCD: 0
+pwrOffIfInactive: 0
